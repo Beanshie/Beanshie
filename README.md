@@ -45,7 +45,7 @@ While technical output is primary, this repository adheres to foundational secur
 
 ## 📚 Featured Repositories
 
-* **[soc-learning-log](./soc-learning-log):** *(In Progress)* Main engineering log documenting TryHackMe walk-throughs, Wazuh rule configurations, Python/Bash utility scripts, and Proxmox lab topologies.
+[* **[soc-learning-log](./soc-learning-log):** *(In Progress)* Main engineering log documenting TryHackMe walk-throughs, Wazuh rule configurations, Python/Bash utility scripts, and Proxmox lab topologies.](https://github.com/Beanshie/soc-learning-log)
 
 ---
 
